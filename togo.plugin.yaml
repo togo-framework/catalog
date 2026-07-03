@@ -1,0 +1,8 @@
+name: catalog
+description: Open-catalog capability — register/discover tables (Unity Catalog / Iceberg REST).
+priority: 50
+backend:
+  package: github.com/togo-framework/catalog
+migrations: []
+frontend: { dir: "" }
+commands: []
